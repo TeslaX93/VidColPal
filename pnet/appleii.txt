@@ -1,0 +1,23 @@
+﻿; Paint.NET Palette File
+; Lines that start with a semicolon are comments
+; Colors are written as 8-digit hexadecimal numbers: aarrggbb
+; For example, this would specify green: FF00FF00
+; The alpha ('aa') value specifies how transparent a color is. FF is fully opaque, 00 is fully transparent.
+; A palette must consist of ninety six (96) colors. If there are less than this, the remaining color
+; slots will be set to white (FFFFFFFF). If there are more, then the remaining colors will be ignored.
+FF000000
+FF6C2940
+FF403578
+FFD93CF0
+FF135740
+FF808080
+FF2697F0
+FFBFB4F8
+FF404B07
+FFD9680F
+FF808080
+FFECA8BF
+FF26C30F
+FFBFCA87
+FF93D6BF
+FFFFFFFF
