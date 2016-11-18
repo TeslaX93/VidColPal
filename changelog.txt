@@ -1,0 +1,18 @@
+VIDCOLPAL [workname] - Color Palettes
+-------------------------------------
+Color palettes set from old computers
+and video consoles.
+
+Available in ACO, GPL, PAL (JASC),
+PAL (RAW), TXT formats for instant
+use in Photoshop, GIMP, PaintShopPro,
+Paint .NET, IrfanView, etc.
+
+You can download a single palette, or
+download zip with all ( < 1 MB).
+
+Changelog:
+=====================================
+
+1.0: First version. Fixed Atari 2600
+PAL & SECAM palettes.
